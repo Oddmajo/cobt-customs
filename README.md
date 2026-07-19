@@ -1,4 +1,4 @@
-# cobt-customs
+# Colorado Battletech Custom Units
 
 Custom Battletech units in use by Colorado Battletech Denver and Colorado Springs
 
