@@ -1,0 +1,6 @@
+# Ignore workspace sheets
+workspace/sheets-generation/*.mtf
+workspace/sheets-generation/*.blk
+
+# Ignore SVG Tool Download
+workspace/MegaMekLab-SVGMassPrinter
