@@ -1,0 +1,159 @@
+generator:MegaMek Suite 0.51.00 on 2026-07-26
+chassis:Excalibur
+clanname:Siegfried
+model:EXC-W2
+mul id:999
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3050
+source:TRO: 3075
+rules level:5
+role:Missile Boat
+
+quirk:vestigial_hands_la
+quirk:vestigial_hands_ra
+
+mass:70
+engine:350 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:11 Single
+walk mp:5
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:22
+RA armor:22
+LT armor:23
+RT armor:23
+CT armor:33
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:10
+
+Weapons:4
+Medium Pulse Laser, Left Arm
+Gauss Rifle, Right Arm
+LRM 20, Left Torso
+Anti-Missile System, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+IS Endo Steel
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+ISArtemisIV
+IS Ammo LRM-20 Artemis-capable
+IS Ammo LRM-20 Artemis-capable
+ISCASE
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Gauss Ammo
+IS Gauss Ammo
+ISCASE
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISAMS Ammo
+ISAntiMissileSystem
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+icon: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
+

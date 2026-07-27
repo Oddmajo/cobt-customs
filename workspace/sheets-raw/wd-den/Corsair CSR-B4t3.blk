@@ -1,0 +1,147 @@
+#Saved from version 0.51.00 on 2026-07-26
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Corsair
+</Name>
+
+<Model>
+CSR-B4t3
+</Model>
+
+<mul id:>
+693
+</mul id:>
+
+<year>
+3010
+</year>
+
+<type>
+Mixed (IS Chassis) Unofficial
+</type>
+
+<role>
+Dogfighter
+</role>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+6
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+13
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+1
+</armor_tech_level>
+
+<armor>
+73
+50
+50
+43
+</armor>
+
+<Nose Equipment>
+Large Laser
+Large Laser
+Small Laser
+Small Laser
+</Nose Equipment>
+
+<Left Wing Equipment>
+Medium Laser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+Medium Laser
+</Right Wing Equipment>
+
+<Aft Equipment>
+Small Laser
+Small Laser
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+</Fuselage Equipment>
+
+<capabilities>
+It was well protected by thirteen and a half tons of armor, while sixteen heat sinks kept the all-energy weapon loadout from overheating. It carried a fuel load of five tons and its GM 200 power plant could achieve a maximum thrust of four and a half gravities, with a safe thrust factor of three gravities.
+</capabilities>
+
+<overview>
+The compact laser system and sleek design of the Corsair made it a superior aerospace fighter in an atmosphere, rivaling the capabilities of Conventional Fighters.
+</overview>
+
+<deployment>
+Geared towards short range combat, the Corsair carries a total of two Martell Medium Lasers and four ExoStar Small Lasers, while two ExoStar Large Lasers gives it some additional reach. Both medium lasers are located in each wing, with the large lasers and two of the small lasers filling the nose. For coverage to the stern, the remaining two small lasers are mounted to the rear and tied directly into the targeting systems, giving the pilot extreme accuracy in his rear field of fire. The compact laser systems are also well-suited for a ground-attack role, while the presence of sixteen heat sinks means the Corsair can continuously fire both large lasers and fire the medium and small lasers with negligible heat buildup.
+</deployment>
+
+<history>
+The Corsair was originally introduced as a means to replace the horrific losses suffered by the Star League Defense Force following the end of the Amaris Civil War. A working prototype of the Corsair had already been produced when the SLDF approached Wangker Aerospace for an easy-to-refit Aerospace Fighter, which allowed them to begin full-scale production within months. Unfortunately the original V1 series had serious flaws: the fuel tank would rupture when the craft made turns operating in an atmosphere, the landing gear could not support its weight in an emergency landing, and the life support system in the cockpit was easily shattered. While such faults would have killed most other designs, the positive aspects of the Corsair were so impressive the Star League permitted its continuation while Wangker fixed the issues. The fuel tank problem would be corrected in the V2 series, while the life support issues were hashed out in the V3 through V8 series, with continuing improvements up to the V12 series. Most of Wangker's Corsair factories were located in the Federated Suns, and so when the Star League fell five years after its introduction House Davion managed to seize control of them, with the Free Worlds League capturing a single production line on Connaught. Within five years of the start of the First Succession War however all of these factories had been destroyed, though through salvage efforts Wangker managed to piece together a new line on Axton and keep it open over the centuries of constant raiding. When the Connaught facility was destroyed in the opening shots of the war only a few hundred had been produced for the FWLM, and these eventually fell into the hands of the Principality of Regulus. When the Federated Commonwealth was formed debate raged on whether the Corsair or the Lucifer should be the AFFC's standard medium fighter, and in mock combat trials the Corsair won more often than not.
+</history>
+
+<manufacturer>
+Wangker AeroSpace
+</manufacturer>
+
+<primaryFactory>
+Axton,Connaught,Lee,Orbisonia,Ramen II
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Wangker II
+ENGINE:GM 200
+ARMOR:Wangker Corsair Standard
+COMMUNICATIONS:Ranker 100B
+TARGETING:Ranker TA800
+</systemManufacturers>
+
+<source>
+TRO: 3039
+</source>
+
+<tonnage>
+50.0
+</tonnage>
+
+<icon>
+iVBORw0KGgoAAAANSUhEUgAAAFQAAABICAYAAABof9IhAAAOqElEQVR4Xu2beWxVVR7H39C+vlcFBESdcUYrZSnQspWy14IMOOyUpS0gOECFiEwcAiJhccgo7giJghoXMG4xcce4E3cJCmrcNQpEI9aFhLglJixnzud3zq893j7Ff2gZ3z3JL72995x7z/3e3/L9/c55iUTc4ha3uMUtbnGLW9ziFre4HeX2pyNI3H5nC0Fr8SsSA/s7WyYgcyKSCdi4ZWhRMHOtJK3kWUl54ZhzXItB/Y0WgokWAhoApq0cZ+V4Lxxzjmv0UY2NQY20TGACYGsrbay09cIx57iWCdS4JX5p5iGYFrxW7e3hn61inuqEY84JsCGooflnfQu1MwCz5cmJRP5piVSq0EpnL4VyTq79AtRYS4OmgKJp+Qkx6ZYnWVd5ugWwSyIvr8eECRMMwrGc45r0EfNnjGpp1vvSUDuJ4GhcO4vRX0Ujk8neY8eONbW1tea8884z48ePN5yTa/SRvjKGsbGWJhoAhQZhuq1E89LpM6w2liRy8wcNHjxYAJ03b54ZOnSo4Zxco4/T0lZ+rFKpGNBEg7lbv3jcX8Ssk8my3Nz08H79+pnZs2fXA8o5rjnTt32dL42afda2EFA4JuZ+mtXA7mhiTk5qdN++fc2CBQvM4sWLzVlnnWU457W0uwtQYvaMjQFNNADq/aelRJhyMtkrkZsempOTVzlgwADzwAMPmK1bt5pRo0YZznFN+ojZC42K/WiiMV3Cf54s1CiZ7Jubmxppwavu37+/eeaZZ8xbb71lxowZA6DVXKOPo1FCodSPxoAmGgBtLcTd+c/+mPbEiRMNQWnbtm3m008/NZWVleaKK65wZm/7OD8K2Rf6FAOaaIjw5Ocn+IBU5P3n+J49e5q1a9eaXbt2mZ9//tm8+uqrAirXxI/S1wWmE/w9sjrSRwFtI9xSAlK6HF9ZUlJibrzxRvP5558bGsDCRb0fLfeBCT6qkT4GNOFA8JQp/28WpGILVoUFbUpxcbG5/vrrzZ49ewTQ3bt3S8bENfpIX8bE1ElalIO29ZSph+WawyxoVd26dTPr1q0zH3/8cRTQKvpIKuqoE5WorKdOGTiozdHz8npC3i1oNQB67bXXmg8//LDe5D2gNULwbV+X18dclBYBtNWJFpwCcnUL1t8taNMBlKD00UcfRX3odPpIXs8YGStcNAY00ZjU9/Yc9BwF9JNPPjEHDx4UTR03bhyAnuO5aO8M5D4GNKGANpD6f+TkpGcBKLzzgw8+MN99953QJkfu07Po00DuMwKadaDywkrqW0rlKJXqSOHD8swxOcn07O7du0tQev3114U67dixwwFqr9HHF0k6+qpTS3+vrCT3qp1B2nn8Ka4Gmj8A4m5Bq+3Vq5dZv369+M6ffvrJvPbaa2bKlCkAWivk3vZ1tVE7NsvTzyigrYMsaTDEnSzpwgsvNJs2bTJ79+41hw4dEtr04osvmunTp3tynz84yJY0/cxKcq+AhmnnqZYGdbOE/UyIe1FRkbn44ovN3Xffbb788kuJ8nV1debtt9/WSA+5P1PGyAKekPusTT9DQKNZEmW7agBdsmSJueOOO8R/Hj58WADduXOnYVmEPlLGa5wtZR2gGoEDDtqI1E/v3LmzFJZvvfVW4aE//PCDmPxzzz2nZTy4aCZyr5H+DwuqAhgCqdrpI3yUg6ZnoqFU6W+55RahS+TzANqgoemZGbioRvpMW3VU/m9adOIheKEQiNBMXhyNOsHXQTt5yjQaWtS1a1ezcuVKc+edd0ouj4biS9955x1H7h11oi4Kderk66KU8bgn9+YZGvGjEp3nMQX0bwHIC6EtCC+oG78IHhDx1k6zxNxZRyLCT7RgzaN0d9VVV5lHHnnEfP311xKUvvrqK/Puu++6oGT70FcivZTxMHvRUt2qo3ugwg1mSCaQjxlgMwGpGhjumgs3fWGWaFLbYHcIVfpS7z+rWyRTC8vKysR/vvTSS+bHH38UQL/55pt6QOlDX78KWuqq9/W7Sqg+8QyexTPDTWYhyFFwmxXUKJh8fQWRaMuLIBBuv+GLIgZZDeZpI3M63cFqV1cBxNVA0c45LXJTSysqKszjjz8uAJLHq4a+//77DlDbh75OS9MVcg/uxT0l6vMMniWFE91oxlx0XsxRwc3kc5u0hWBGfaJqYDtngmQxEG9eMl0gubfbYlMsASWZP9BpZmoCObrVvH+3yE3/l6UOUs333nvP7Nu3z+zfv1+CEhG/pqbG0Ie+jGGs09T8gXJP7s0zJM+nGsWzmQNzEbcAI1ANzuRzmxzUTGDy1YMdc6KBZ0jAQHPqAbRBhBe3pNyV6VJjrZZViWYKmHn/oebJSifVpY0bN8oyyE033STCYh3Z0uTJkw19BVSnqVXcS8p6EH4Hblk9wMyBuQgjUA3OuJOvyVPXUDuV+jChtk4DZJMXICqA/SRwWBLOy1qqM0pydZvpWJlhwZiLP0Tr4JdsZhg0aJB54oknBMBrrrlG1uQRis2ce+qpp6QPfYn406ZNcz7V3kvuKfdOjedZHuChMgfm0qDBnVwgkzoALkFBDRODJgE11M5AM+0Xd3uSujmfmD/Em/Jo+4KVVqbOnDkT/vhPIjQAAAT+EDBfeOEFMXE2NbB0vGLFCvPoo4+a6667zrz88ssiHHOOa0OGDJG+8FICF/dAswNw5/Es98y8qW4OqdHiGuzcvM/t5jRWKFezbY8MtZPIqdsPC4S+JJP93UukxjkztD7Ovhzax/4kgs3ZZ59tqqurBQh8JDzziy++MJ999pl59tlnBSxI/WOPPdYIUM5xjT70ZQxjKUITsOjHvXkGe6F4pi/5AfAs7xrGzZo1i518/T3lKvAlQChXk9YDQnMnOuLQ2eB1qqc+ZZjgnDlzZNsML6JmzJYash6OH3roIYneAAEVonisjfPDhg2r11DMHOAQjlVD6cPH0Pb999+bb7/9Vu7JPXgGz4J68WyOybCYH8L2SNlz2rDxTAssYfp61M0+g7nLWhDEvBg/hbmSgz/88MNixmjhPffcIwBQ6Bg+fLj4wLq6unowwgYg1Dzvu+8+c8MNN8gSyIYNG0Q45tz9999vpk6dKjQqU+M8H2DkyJHybMBU9/Dmm2/KvCi8MCefGBT7xEDXpprM7KOAhnm4bPAqLS015557rgDCxDFBXqq8vFxAwQyJ0qSSmRrnKYBMmjTJvPLKK+aNN94QqoQAxvbt2wVwqvi/1g4cOCD+GEDvuusu+YgEOe5BsZprF110kd9v2mjjWZNW/o8IKMsWUJrbbrtNXuLpp58WsyPzueSSS8T8MEc4JZqEkKOjmZTptKIEGBRFAA6t5GOgYVoc0ZXQaCMJIFVFQwFMP+KTTz4p9+Y5uIpjFVBMXnPxEju58o4dO4pGYFKXXXaZLLJReWfBrba21vTo0UPWiQCblwZwXpasiLwdt8CyB7To3nvvlT5r1qwxl19+uXn++efFlWDCjNEtOtrwowQ43AzclY+4bNky06dPHxmPtjKe5zAnDyhbekqCWkCzmLwGJc8/ZU98ETyPKhFg8BcQEUAuKCgwVVVVhjonkZdK0urVq0Vrly9fLsJL9u7d27D8gabzYSD29F21apW5+eabJXrjVgCVoAJ4aCvbHUkGNm/ebK688kpzwQUXGEqA7H4uLCyUeQDswIEDZez555+vQamfW0aRPVLKR5usphpGebIK8mHKb6f4vFz2xfsC8EQr05R38nJsT+TlAJX/Vbp06SKgd+jQwYwYMULMEdDRZLQIcBCAAFSiPD566dKlch33oDSJLeRUqvSefEQ+jvJSN6e8iVdffXW4X7+DJ/iko7xTuGHiqAJKU0DDLKmd5MrkznaCaIVLLSkWS2opxB4NoTAstUxH7v9FkUPy8tzUOgCYP3++sARARTBbKA7CMdoKfYKCwRb4AIz191jKPQU8qZemZ+KzA2I/VorSdm64EwFT8n1Z5NNflESzpaPeQrPnS0KEWznKYSfm8veiBBu5yEZY6nWpZwVZigeZ7AkNrvGpJzn8ajR30aJFYrYwBEg87gPfO3fuXAlonCOfJ5CxrAzfZazP6Uk9a9y9yYpSI11mlK5wqaedi8uQ+L1TkQtEgCl0iUoU76La2aSAhsEJf4OZMCFf44QkS06vlSVXHGH9J5nsI37LBgO/5aYSU7SALFINhWZBlwhCAAoNI7PBnAleZEdEcgITps5Yb86VXgPL5Rk8i2c2FEe0AnW6m2N97ZS58w68S7NUnEJQtQ4aVOGl9tneTVh/qynluxDkEl7aF5UnWe2qBVA08fbbbxeuumXLFgGRUh4BhICFqbI1B/pDxMbkGcs9fLG5nzflADwp3/nfijInieYAGVb3w7pok4KpLTT9sIwXVuf58jj6SIEZM5Pcn+JymdWqERaQagBFE6FNZDYAS4Bh4y1RGuZAUIKYwykffPBBB6j7IcMISSO5p+TmPKNRgZm5aJE5rOJHq/dNDqa2UFNDYKPLH5hTCHIbpyn1a0nymyQYwIwZM8yll14qhBzuCG+1wWYtArBQIkp5kHNAJ8Iz1kdsv7ZU/+PaEDzmcKRlkGbRzGiLgqrAqugCnQKtroGSH/uZYAY9ibxoIOa9cOFCSQygTpyzQWcZAsXiGmCjnUR6sjIpKHMPMXGhP1qKU1PW5+sinUo452MCTG06mUzgRoEOK/xtxbf5H8oCjJo3pg5/5H9Ps2RpmWvQJzinEHOpzusPaqViFBaLoxoYlei8j+kWnWwItIJKLeBEn2kBai+/PDIUn+j2iUKxGoRz4i8lB5dljl4OTDId8Zeai0fpT1T+EC0KqnLY9l5TMX8oFvSqVIKMEygQov/DJaFDUKFCp5kSuZuNSzZnU1CjHLad839oWv3qaEcvnbzo/4UuktNXfCZZzq9xyT98C81fQdVA5TdACIc9yfPYU34pnBM6pFySMWEAahZi3twtCmrIYQEHwReidZlEd4QokNEAlFVgagtBDYENOeyR5Jjlks3VoqCG4P4eiY7LajDDpkBkAvdIEo5t1vY/EKyX1u5aI50AAAAASUVORK5CYII=
+</icon>
+
+

@@ -1,0 +1,119 @@
+#Saved from version 0.51.00 on 2026-07-26
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Eagle
+</Name>
+
+<Model>
+EGL-B4t2
+</Model>
+
+<mul id:>
+4110
+</mul id:>
+
+<year>
+3014
+</year>
+
+<type>
+Mixed (IS Chassis) Unofficial
+</type>
+
+<role>
+Fire Support
+</role>
+
+<quirks>
+atmo_flyer
+</quirks>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+2
+</cockpit_type>
+
+<heatsinks>
+18
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+19
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+2
+</armor_tech_level>
+
+<armor>
+76
+75
+75
+42
+</armor>
+
+<Nose Equipment>
+CLLargePulseLaser
+CLMediumPulseLaser
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLLargePulseLaser
+CLMediumPulseLaser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLLargePulseLaser
+CLMediumPulseLaser
+</Right Wing Equipment>
+
+<Aft Equipment>
+CLERSmallLaser
+CLERSmallLaser
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+Communications Equipment:SIZE:3.0
+ISHighResImager
+CLTargeting Computer
+WatchdogECMSuite
+</Fuselage Equipment>
+
+<source>
+TRO: 3075
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+
+

@@ -1,0 +1,113 @@
+#Saved from version 0.51.00 on 2026-07-26
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Shilone
+</Name>
+
+<Model>
+SL-17-BATL-DEN
+</Model>
+
+<year>
+3012
+</year>
+
+<type>
+Mixed (IS Chassis) Unofficial
+</type>
+
+<role>
+Fire Support
+</role>
+
+<quirks>
+easy_pilot
+</quirks>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+7
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+15
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+1
+</armor_tech_level>
+
+<armor>
+72
+71
+71
+42
+</armor>
+
+<Nose Equipment>
+CLStreakSRM4
+CLStreakSRM4
+CLStreakSRM4
+CLLargePulseLaser
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLStreakSRM4
+CLMediumPulseLaser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLStreakSRM4
+CLMediumPulseLaser
+</Right Wing Equipment>
+
+<Aft Equipment>
+CLERSmallLaser
+CLERSmallLaser
+CLERSmallLaser
+CLERSmallLaser
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+Clan Streak SRM 4 Ammo
+Clan Streak SRM 4 Ammo
+</Fuselage Equipment>
+
+<tonnage>
+65.0
+</tonnage>
+
+
