@@ -1,0 +1,162 @@
+generator:MegaMek Suite 0.50.11 on 2026-07-08
+chassis:Ostroc
+model:OSR-BATL 'BOLD' -intermediate
+mul id:2348
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3070
+source:TR:3039
+rules level:4
+role:Skirmisher
+
+quirk:low_profile
+
+mass:60
+engine:360 XL (Clan) Engine
+structure:IS Standard
+myomer:Triple-Strength
+
+heat sinks:10 IS Double
+walk mp:6
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:18
+RA armor:18
+LT armor:20
+RT armor:20
+CT armor:29
+HD armor:9
+LL armor:25
+RL armor:25
+RTL armor:6
+RTR armor:6
+RTC armor:8
+
+Weapons:11
+SRM 4, Right Torso
+SRM 4, Right Torso
+ER Micro Laser, Head
+ER Micro Laser, Center Torso
+ER Micro Laser, Left Torso
+ER Micro Laser, Left Torso
+ER Micro Laser, Left Torso
+ER Micro Laser, Left Torso
+ER Micro Laser, Left Torso
+ER Micro Laser, Left Torso
+SRM 4, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+CLERMicroLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+SRM 4
+SRM 4
+SRM 4
+IS Ammo SRM-4
+IS Ammo SRM-4
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERMicroLaser
+Supercharger
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMicroLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
