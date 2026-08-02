@@ -48,7 +48,7 @@ The `workspace/sheets-generation` directory has been created to assist with this
 
 Navigate to the root of the MegaMekLab-SVGMassPrinter tool, and run the command generate the SVG files: `.\bin\svgmassprinter.bat --skip-equipment --units "<input_dir>" -o "<output_dir>"`
 
-Example: `.\bin\svgmassprinter.bat --skip-equipment --units "..\sheets-generation\" -o "../.."`
+Example: `.\bin\svgmassprinter.bat --skip-equipment --units "..\sheets-generation\*" -o "../.."`
 
 Note: Directory path is finicky. Known Issues:
 * Must be in root of download (default name: MegaMekLab-SVGMassPrinter)
