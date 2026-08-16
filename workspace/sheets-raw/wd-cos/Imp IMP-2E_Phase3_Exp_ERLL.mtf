@@ -1,0 +1,165 @@
+generator:MegaMek Suite 0.50.10 on 2026-08-15
+chassis:Imp "Bahamut"
+model:IMP-2E
+mul id:4358
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3005
+source:TR:3050
+rules level:2
+role:Juggernaut
+
+quirk:difficult_maintain
+quirk:command_mech
+
+mass:100
+engine:300 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:28 Clan Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:31
+RA armor:31
+LT armor:31
+RT armor:31
+CT armor:45
+HD armor:9
+LL armor:39
+RL armor:39
+RTL armor:9
+RTR armor:9
+RTC armor:14
+
+Weapons:13
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Right Arm
+LRM 15, Right Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+ER Large Laser, Left Torso
+Medium Laser, Left Torso
+ER Large Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Center Torso
+Medium Laser, Center Torso
+Medium Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Medium Laser
+CLDoubleHeatSink
+CLDoubleHeatSink
+Medium Laser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Medium Laser
+LRM 15
+LRM 15
+LRM 15
+Medium Laser
+Medium Laser
+
+Left Torso:
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISERLargeLaser
+ISERLargeLaser
+Medium Laser
+IS Ammo LRM-15
+
+Right Torso:
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISERLargeLaser
+ISERLargeLaser
+Medium Laser
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser
+Medium Laser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Medium Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,121 @@
+#Saved from version 0.50.11 on 2026-08-15
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Riever
+</Name>
+
+<Model>
+F-100-BATL "Mouse"
+</Model>
+
+<mul id:>
+2688
+</mul id:>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<role>
+Attack Fighter
+</role>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+12
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<clan_engine>
+true
+</clan_engine>
+
+<armor_type>
+0
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+0
+</armor_tech_level>
+
+<armor>
+115
+101
+101
+91
+</armor>
+
+<Nose Equipment>
+CLHAG40
+CLHAG40
+CLHAG40
+</Nose Equipment>
+
+<Left Wing Equipment>
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+Hyper-Assault Gauss Rifle/40 Ammo
+</Fuselage Equipment>
+
+<source>
+TR:3039
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+
+

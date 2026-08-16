@@ -1,0 +1,109 @@
+#Saved from version 0.51.00 on 2026-08-15
+<UnitType>
+AeroSpaceFighter
+</UnitType>
+
+<Name>
+Tomahawk
+</Name>
+
+<Model>
+Kirov
+</Model>
+
+<mul id:>
+5255
+</mul id:>
+
+<year>
+3050
+</year>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<role>
+Fast Dogfighter
+</role>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<SafeThrust>
+8
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+12
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+19
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+1
+</armor_tech_level>
+
+<armor>
+57
+45
+45
+41
+</armor>
+
+<Nose Equipment>
+CLMediumPulseLaser
+PPC
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+</Fuselage Equipment>
+
+<source>
+TRO: 3075
+</source>
+
+<tonnage>
+45.0
+</tonnage>
+
+

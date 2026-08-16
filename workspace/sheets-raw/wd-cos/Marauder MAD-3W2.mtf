@@ -1,0 +1,160 @@
+generator:MegaMek Suite 0.50.11 on 2026-07-13
+chassis:Marauder
+clanname:Cancer
+model:MAD-3W2
+mul id:2038
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3005
+source:TRO: 3039
+rules level:5
+role:Sniper
+
+quirk:low_profile
+quirk:command_mech
+quirk:hyper_actuator
+
+mass:75
+engine:375 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+cockpit:Command Console
+gyro:Standard Gyro
+
+heat sinks:15 Clan Double
+walk mp:5
+jump mp:5
+
+armor:Standard(Inner Sphere)
+LA armor:18
+RA armor:18
+LT armor:18
+RT armor:18
+CT armor:27
+HD armor:9
+LL armor:24
+RL armor:24
+RTL armor:6
+RTR armor:6
+RTC armor:8
+
+Weapons:2
+PPC, Left Arm
+PPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+PPC
+PPC
+PPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+PPC
+PPC
+PPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Communications Equipment:SIZE:1.0
+Communications Equipment:SIZE:1.0
+Communications Equipment:SIZE:1.0
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
+icon:iVBORw0KGgoAAAANSUhEUgAAAFQAAABICAYAAABof9IhAAADb0lEQVR4Xu2XAXLqMAxEezAO12v0Nr0ZfzZlPZuNHBR+wIHozWhCLNmRH4bSr6+iKIqiKIqiKIqiKM7ItRNHxHs8XK/Xn5+f6+/v7ywwhpwXP8hu67yg1/9masjZscnr9/f3bms9udddyDbp98pqroQum5ykdMSs5hCXy4U5z28l0+twMk2uSuvk2hrM7bDxTK/DyTTZk7aWa2vwhO6w8Uyvw8k02aSJuCl64yDKc1zW3kKm1+FkmpxJQY5xq2mBnzG4Ap3nQlknkSHT63AyTTYh+Pi6UP09CDDGa08on8G58qw1Mr0OJ9vkNNYTyjkAY7xCJMZ7QsFHCo0COa/bKpQyWav5R4VGgZwXj6IJcZDTOsgcLTRiw/yX0DamBO/6NEapDI573OYuhN6pv0e216GkTyiFqgSdy81CIOe7UM2rnM4p87FWr3TmDiP7rr9a6OzXAceSvQ6HDXkoRxA6jXfiULRNUwDGvOYoQhO9Dsff7ajJTUKZd6G813ogQqegzECY9+j5Q7D4w4Qxr9kilGu4UM1HQnXtnlAlONmHoG1ENxTV3BNKgYBzIqGsJS6UP8kioYleh9M7oYu4JxRkhGo96AmNQjnsCVUxvGdgg3yNHOKZQvmM6Pms83m3fRyKthGEw00hx48hT5MGUIEulPdc00PXp0zHe526PyBts3jtIOenyDesQoGuyTma97n31ifI6ZptBwdjcZI8/ITqhl0mNx4J1Tqd31vfQ9fF67aDgzFr0tENc1PPEhqtryD3DicUsEHfw2zDlM4TwwCPCNXQ9deESrwFsw1wUxSKwOuohvIA6iKhHNN5JHqG19zyb4efhCYI1zWhBHWU6V8l94TyOZ34GFJC9YTinoF71maEitSPJSWUoC4SqnUlNCFUZbhQ5kroHymhgLUeGNe6EroiVE8eanha9YpxoCdZOZtQ0BUKtgjVeeSMQkEJ3ZFQFK8qtBcgmqvSTyUUp6gXKhTwBPLKcdT5XA3UnUYoT08UKtRzFEShnvM6XueP/zymE4TNKrzX78leDfK971Dc84Te4uN5pdBTUEJ3Ztp0JALsIRSBGnvux1IndGdK6M60j2UUyCN6sgBrfG6wzmmYTpGDca2JhHqNc7bTSRb/2XREtNMooSzW6KxzClzUoxJ8jUfXKYqiKIqiKIqiKJ7CP+JbW0NUNeRHAAAAAElFTkSuQmCC
+
