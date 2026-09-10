@@ -1,0 +1,173 @@
+generator:MegaMek Suite 0.50.06 on 2026-08-04
+chassis:Firefly
+model:FFL-4A-BATL3
+mul id:1087
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3007
+source:TRO: 3050
+rules level:2
+role:Striker
+
+quirk:no_arms
+
+mass:30
+engine:180 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:11 Clan Double
+walk mp:6
+jump mp:0
+
+armor:Ferro-Fibrous(Clan)
+LA armor:10
+RA armor:10
+LT armor:11
+RT armor:11
+CT armor:15
+HD armor:9
+LL armor:14
+RL armor:14
+RTL armor:3
+RTR armor:3
+RTC armor:5
+
+Weapons:10
+Streak SRM 4, Left Arm
+Streak SRM 4, Right Arm
+ER Medium Laser, Left Torso
+ER Small Laser, Left Torso
+ER Small Laser, Left Torso
+ER Medium Laser, Right Torso
+ER Small Laser, Right Torso
+ER Small Laser, Right Torso
+ER Small Laser, Center Torso
+ER Large Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLStreakSRM4
+Clan Endo Steel
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLStreakSRM4
+Clan Endo Steel
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLERMediumLaser
+CLERSmallLaser
+CLERSmallLaser
+Clan Streak SRM 4 Ammo
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLERMediumLaser
+CLERSmallLaser
+CLERSmallLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERSmallLaser
+Clan Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERLargeLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:The Firefly is a well-armed recon 'Mech that tips the scales at thirty tons, with a maximum ground speed of 86.4 km/h, the and ability to jump up to 120 meters. As a scout 'Mech, the Firefly gives average performance with its energy weapon-heavy arsenal and is useful in both a recon and guerrilla fighter role.
+capabilities: Although it was slow in comparison to other 'Mechs of its weight class, it was powerfully armed and armored, and it frequently served as an anvil against which opposing forces' recon units were smashed.
+deployment:An early variant of the Firefly, and one that accompanied the Dragoons to the Inner Sphere, the -4A carries a similar weapons payload to the -4B model, although it keeps the small laser battery of the -3A instead of the anti-missile system.
+history:The Firefly, which entered service in the late 27th century, was one of the SLDF's primary light 'Mechs in its later years. Cases occurred in all House forces, but not in the numbers deployed by the SLDF, and all were presumed destroyed by the end of the Second Succession War, save for tales of anomalous examples in the Periphery. The design reappeared with Wolf's Dragoons in the early 31st century, raising eyebrows, yet the secret of the Firefly's origin was exposed when the Dragoons' Clan origins were revealed. In the 3040s, the advent of a small number of Fireflys with the Com Guard forces elicited a similar reaction.
+manufacturer:Refit
+primaryfactory:Various
+systemmanufacturer:CHASSIS:Earthwerks Firefly
+systemmanufacturer:ENGINE:GM 150
+systemmanufacturer:ARMOR:StarSlab/1
+systemmanufacturer:JUMPJET:Lexington Lifters
+systemmanufacturer:COMMUNICATIONS:Datcom 18
+systemmanufacturer:TARGETING:Radcom TXX
+

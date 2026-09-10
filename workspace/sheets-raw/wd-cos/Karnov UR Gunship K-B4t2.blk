@@ -1,4 +1,4 @@
-#Saved from version 0.51.00 on 2026-07-26
+#Saved from version 0.51.00 on 2026-09-04
 <UnitType>
 VTOL
 </UnitType>
@@ -8,12 +8,16 @@ Karnov UR Gunship
 </Name>
 
 <Model>
-K-B4t1
+K-B4t2
 </Model>
 
 <year>
-3005
+3008
 </year>
+
+<originalBuildYear>
+3005
+</originalBuildYear>
 
 <type>
 Mixed (IS Chassis) Experimental
@@ -76,6 +80,7 @@ Clan Ammo SRM-4
 </Left Equipment>
 
 <Rear Equipment>
+ISVTOLJetBooster
 </Rear Equipment>
 
 <Rotor Equipment>
@@ -121,10 +126,6 @@ ARMOR:StarSlab/1.5
 COMMUNICATIONS:Johnston Q-Rotor
 TARGETING:None
 </systemManufacturers>
-
-<source>
-TRO: 3039
-</source>
 
 <tonnage>
 30.0
