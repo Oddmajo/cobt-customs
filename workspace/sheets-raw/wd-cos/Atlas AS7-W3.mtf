@@ -1,11 +1,11 @@
-generator:MegaMek Suite 0.50.06 on 2026-08-16
+generator:MegaMek Suite 0.50.11 on 2026-09-10
 chassis:Atlas
-model:AS7-W2
+model:AS7-W3
 mul id:140
 
 Config:Biped
 techbase:Mixed (IS Chassis)
-era:3005
+era:3050
 source:TR:SW
 rules level:5
 role:Juggernaut
@@ -21,7 +21,7 @@ engine:400 XL (Clan) Engine
 structure:IS Standard
 myomer:Standard
 
-heat sinks:16 IS Double
+heat sinks:18 Clan Double
 walk mp:4
 jump mp:4
 
@@ -38,12 +38,20 @@ RTL armor:10
 RTR armor:10
 RTC armor:14
 
-Weapons:5
+Weapons:13
 Medium Laser, Left Arm
 Medium Laser, Right Arm
-SRM 6, Left Torso
-AC/20, Right Torso
 Medium Laser, Center Torso
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
 
 Left Arm:
 Shoulder
@@ -79,27 +87,27 @@ Fusion Engine
 Jump Jet
 Jump Jet
 Jump Jet
-SRM 6
-SRM 6
-IS Ammo SRM-6
-IS Ammo AC/20
-IS Ammo AC/20
--Empty-
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
-Autocannon/20
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+Supercharger
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+ISMASC
 
 Center Torso:
 Fusion Engine
@@ -134,8 +142,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDoubleHeatSink
+CLDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-
@@ -148,8 +156,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDoubleHeatSink
+CLDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-

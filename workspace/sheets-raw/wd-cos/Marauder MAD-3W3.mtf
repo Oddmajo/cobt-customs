@@ -1,12 +1,12 @@
-generator:MegaMek Suite 0.50.11 on 2026-07-13
+generator:MegaMek Suite 0.51.00 on 2026-09-11
 chassis:Marauder
 clanname:Cancer
-model:MAD-3W2
+model:MAD-3W3
 mul id:2038
 
 Config:Biped
 techbase:Mixed (IS Chassis)
-era:3005
+era:3050
 source:TRO: 3039
 rules level:5
 role:Sniper
@@ -39,18 +39,22 @@ RTL armor:6
 RTR armor:6
 RTC armor:8
 
-Weapons:2
-PPC, Left Arm
-PPC, Right Arm
+Weapons:6
+LRM 5, Left Arm
+LRM 5, Left Arm
+LRM 5, Left Arm
+LRM 5, Right Arm
+LRM 5, Right Arm
+LRM 5, Right Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-PPC
-PPC
-PPC
+LRM 5
+LRM 5
+LRM 5
 -Empty-
 -Empty-
 -Empty-
@@ -62,9 +66,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-PPC
-PPC
-PPC
+LRM 5
+LRM 5
+LRM 5
 -Empty-
 -Empty-
 -Empty-
@@ -132,7 +136,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+IS Ammo LRM-5
 -Empty-
 -Empty-
 -Empty-
@@ -146,7 +150,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+IS Ammo LRM-5 Smoke
 -Empty-
 -Empty-
 -Empty-
