@@ -1,0 +1,132 @@
+#Saved from version 0.50.11 on 2026-09-16
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Fensalir Combat WiGE
+</Name>
+
+<Model>
+NHI
+</Model>
+
+<mul id:>
+1057
+</mul id:>
+
+<year>
+3084
+</year>
+
+<originalBuildYear>
+3084
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<role>
+Skirmisher
+</role>
+
+<motion_type>
+WiGE
+</motion_type>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
+3
+</armor_tech_level>
+
+<armor>
+69
+69
+69
+60
+</armor>
+
+<Body Equipment>
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+IS Ammo MML-7 LRM
+IS Ammo MML-7 SRM
+IS Ammo MML-7 SRM Tandem-Charge
+IS Ammo MML-7 SRM Acid
+</Body Equipment>
+
+<Front Equipment>
+ISHeavyGaussRifle
+ISMML7
+ISMML7
+ISERMediumLaser
+ISERMediumLaser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<capabilities>
+The Fensalir at the time was the largest Combat WiGE of its kind. It boasted 11.5 tons of Heavy Ferro-Fibrous armor to protect its hull. The vehicle features an Infantry Transport Bay to allow it to deliver up to 4 tons of troops to a hot zone.
+</capabilities>
+
+<overview>
+The Fensalir Combat WiGE was an attack craft which was built as a joint effort between Johnston Industries and House Steiner based manufacturer Nashan Diversified.
+</overview>
+
+<deployment>
+The Fensalir's main weapon is its Defiance Hammerfist Heavy Gauss Rifle, which has been allotted three tons of ammunition. The vehicle's other weapons include a pair of nose-mounted Extended Range Medium Lasers and two 7-tubed Multi-Missile Launchers. The vehicle has two tons of missile ammunition located in the main body.
+</deployment>
+
+<history>
+The Fensalir was first produced at Nashan's plant on Furillo in 3084, while Johnston - still rebuilding its own manufacturing facilities - shipped components to assemble the WiGEs. When it was first produced, the vehicle initially entered service with the newly-renamed Lyran Commonwealth Armed Forces and later being copied by Clan Wolf-in-Exile for their own use.
+</history>
+
+<manufacturer>
+WC Site 4,Arcturan Arms,Nashan Diversified
+</manufacturer>
+
+<primaryFactory>
+Arc-Royal,Buena,Furillo
+</primaryFactory>
+
+<systemManufacturers>
+CHASSIS:Unknown
+ENGINE:Unknown
+ARMOR:Unknown
+COMMUNICATIONS:Unknown
+TARGETING:Unknown
+</systemManufacturers>
+
+<source>
+TR:3085
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+
+

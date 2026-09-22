@@ -1,0 +1,53 @@
+#Saved from version 0.51.00 on 2026-09-22
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Inner Sphere Foot Point
+</Name>
+
+<Model>
+(Rifle)
+</Model>
+
+<year>
+3140
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<role>
+Ambusher
+</role>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Troopers Equipment>
+Generic Infantry Kit
+</Troopers Equipment>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<overview>
+<p>Foot infantry platoons are the most basic and numerous conventional military formation across the Inner Sphere and Periphery. Deployed on foot without dedicated transport, these platoons are slow to reposition but cheap to raise, easy to supply, and capable of holding ground that faster units cannot afford to garrison permanently. Every major military fields foot platoons in enormous numbers for planetary defense, installation security, and rear-area policing. Their lack of mobility makes them poorly suited for offensive operations against armored forces, but in prepared defensive positions, urban terrain, or dense forests, dismounted infantry remain difficult to dislodge without committing disproportionate resources.</p>
+</overview>
+
+<squad_size>
+5
+</squad_size>
+
+<squadn>
+5
+</squadn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+
