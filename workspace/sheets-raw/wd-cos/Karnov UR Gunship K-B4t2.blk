@@ -1,4 +1,4 @@
-#Saved from version 0.51.00 on 2026-09-04
+#Saved from version 0.51.00 on 2026-10-02
 <UnitType>
 VTOL
 </UnitType>
@@ -12,7 +12,7 @@ K-B4t2
 </Model>
 
 <year>
-3008
+3009
 </year>
 
 <originalBuildYear>
@@ -20,7 +20,7 @@ K-B4t2
 </originalBuildYear>
 
 <type>
-Mixed (IS Chassis) Experimental
+Mixed (IS Chassis) Unofficial
 </type>
 
 <role>
@@ -35,16 +35,24 @@ vtol_rotor_dual
 VTOL
 </motion_type>
 
+<transporters>
+troopspace:1.0
+</transporters>
+
 <cruiseMP>
 11
 </cruiseMP>
 
 <engine_type>
-2
+3
 </engine_type>
 
+<clan_engine>
+true
+</clan_engine>
+
 <armor_type>
-1
+0
 </armor_type>
 
 <armor_tech_rating>
@@ -52,16 +60,16 @@ VTOL
 </armor_tech_rating>
 
 <armor_tech_level>
-5
+0
 </armor_tech_level>
 
 <armor>
-30
-22
-22
-18
+32
+25
+25
+20
 2
-22
+24
 </armor>
 
 <Body Equipment>
