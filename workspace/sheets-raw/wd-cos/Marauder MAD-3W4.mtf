@@ -1,7 +1,7 @@
-generator:MegaMek Suite 0.51.00 on 2026-09-11
+generator:MegaMek Suite 0.50.11 on 2026-10-01
 chassis:Marauder
 clanname:Cancer
-model:MAD-3W3
+model:MAD-3W4
 mul id:2038
 
 Config:Biped
@@ -39,22 +39,26 @@ RTL armor:6
 RTR armor:6
 RTC armor:8
 
-Weapons:6
+Weapons:10
+LRM 5, Left Arm
 LRM 5, Left Arm
 LRM 5, Left Arm
 LRM 5, Left Arm
 LRM 5, Right Arm
 LRM 5, Right Arm
 LRM 5, Right Arm
+LRM 5, Right Arm
+LRM 5, Right Arm
+LRM 5, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-LRM 5
-LRM 5
-LRM 5
+CLLRM5
+CLLRM5
+CLLRM5
+CLLRM5
 -Empty-
 -Empty-
 -Empty-
@@ -65,11 +69,11 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Hand Actuator
-LRM 5
-LRM 5
-LRM 5
--Empty-
+CLLRM5
+CLLRM5
+CLLRM5
+CLLRM5
+CLLRM5
 -Empty-
 -Empty-
 -Empty-
@@ -94,7 +98,7 @@ Fusion Engine
 Fusion Engine
 Jump Jet
 Jump Jet
-Communications Equipment:SIZE:1.0
+CLLRM5
 Communications Equipment:SIZE:1.0
 Communications Equipment:SIZE:1.0
 -Empty-
@@ -136,8 +140,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-IS Ammo LRM-5
--Empty-
+Clan Ammo LRM-5
+Clan Ammo LRM-5 (Clan) Smoke
 -Empty-
 -Empty-
 -Empty-
@@ -150,8 +154,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-IS Ammo LRM-5 Smoke
--Empty-
+Clan Ammo LRM-5
+Clan Ammo LRM-5 (Clan) Smoke
 -Empty-
 -Empty-
 -Empty-

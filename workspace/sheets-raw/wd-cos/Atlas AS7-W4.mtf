@@ -1,6 +1,6 @@
-generator:MegaMek Suite 0.50.11 on 2026-09-10
+generator:MegaMek Suite 0.50.11 on 2026-10-01
 chassis:Atlas
-model:AS7-W3
+model:AS7-W4
 mul id:140
 
 Config:Biped
@@ -18,7 +18,7 @@ quirk:imp_com
 
 mass:100
 engine:400 XL (Clan) Engine
-structure:IS Standard
+structure:Clan Endo Steel
 myomer:Standard
 
 heat sinks:18 Clan Double
@@ -38,46 +38,44 @@ RTL armor:10
 RTR armor:10
 RTC armor:14
 
-Weapons:13
-Medium Laser, Left Arm
-Medium Laser, Right Arm
+Weapons:11
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
 Medium Laser, Center Torso
-Medium Laser, Left Torso
-Medium Laser, Right Torso
-Medium Laser, Right Torso
-Medium Laser, Left Torso
-Medium Laser, Right Torso
-Medium Laser, Left Torso
-Medium Laser, Right Torso
-Medium Laser, Left Torso
-Medium Laser, Left Torso
-Medium Laser, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Medium Laser
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Clan Endo Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Medium Laser
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
 -Empty-
 -Empty-
 
