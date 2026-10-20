@@ -1,4 +1,4 @@
-generator:MegaMek Suite 0.51.00 on 2026-07-23
+generator:MegaMek Suite 0.51.00 on 2026-10-15
 chassis:Black Knight
 model:BL-18-KNT-W
 
@@ -33,15 +33,15 @@ RTR armor:5
 RTC armor:7
 
 Weapons:9
-Light AC/5, Right Torso
-Light AC/5, Left Torso
-Medium Re-engineered Laser, Right Arm
-Small Re-engineered Laser, Head
 Large Re-engineered Laser, Left Arm
 Medium Re-engineered Laser, Left Arm
-Medium Re-engineered Laser, Right Torso
-Medium Re-engineered Laser, Left Torso
 Rocket Launcher 15, Right Arm
+Medium Re-engineered Laser, Right Arm
+Medium Re-engineered Laser, Left Torso
+Light AC/5, Left Torso
+Medium Re-engineered Laser, Right Torso
+Light AC/5, Right Torso
+Small Re-engineered Laser, Head
 
 Left Arm:
 Shoulder
@@ -95,8 +95,8 @@ Medium Re-engineered Laser
 Medium Re-engineered Laser
 Light Auto Cannon/5
 Light Auto Cannon/5
-IS Armor-Piercing Playtest Ammo LAC/5
-IS Precision Playtest Ammo LAC/5
+IS Ammo LAC/5
+IS Ammo LAC/5
 ISCASE
 
 Center Torso:

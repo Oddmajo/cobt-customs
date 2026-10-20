@@ -1,0 +1,173 @@
+generator:MegaMek Suite 0.51.00 on 2026-10-15
+chassis:Black Paladin
+model:BLK-XIV-KNT
+mul id:6347
+
+Config:Biped
+techbase:Inner Sphere
+era:3155
+source:TRO: 3145 Federated Suns
+rules level:4
+role:Juggernaut
+
+
+mass:75
+engine:300 Light Engine
+structure:IS Endo-Composite
+myomer:Triple-Strength
+
+heat sinks:14 IS Double
+walk mp:4
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:18
+RA armor:18
+LT armor:20
+RT armor:20
+CT armor:28
+HD armor:9
+LL armor:25
+RL armor:25
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:6
+AC/20, Left Torso
+SRM 6, Right Arm
+Medium Re-engineered Laser, Left Torso
+Medium Re-engineered Laser, Left Torso
+Medium Re-engineered Laser, Left Torso
+Medium Re-engineered Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+Autocannon/20
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+SRM 6
+SRM 6
+IS Endo-Composite
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Autocannon/20
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Medium Re-engineered Laser
+Medium Re-engineered Laser
+IS Ammo AC/20
+IS Ammo AC/20
+IS Ammo SRM-6
+IS Ammo SRM-6
+ISCASE
+IS Endo-Composite
+IS Endo-Composite
+Triple Strength Myomer
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Supercharger
+Triple Strength Myomer
+
+Head:
+Life Support
+Sensors
+Cockpit
+Triple Strength Myomer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:The Black Knight was introduced in 2578 both as a front-line combatant and as a command BattleMech at the company and battalion level for the Star League Defense Force.
+
+capabilities:Thirteen tons of armor protection on an Endo Steel frame allows the Black Knight to withstand significant punishment. The biggest disadvantage of the design is its challenging heat curve, though the fact that it mounts twenty heat sinks ensures that the Black Knight can still disperse a significant amount of heat produced by its weapons. However, if the 'Mech is involved in a prolonged combat situation, a less experienced MechWarrior who is not competent at heat management may be in trouble. The Black Knight's superior communications equipment allowed it to readily coordinate a whole company of 'Mechs at the same time, as well as link together the command frequencies of an entire parent regiment and connect with orbital support satellites. Improved construction materials provided the Black Knight with a light but sturdy chassis capable of carrying more weaponry and armor for less weight. With the type and amount of weapons carried by the 'Mech, the only challenge the Black Knight faces is heat management.
+
+deployment:Another Dark Age version of the Black Knight, the -2Y is equipped with an XL engine that drives it to 54 km/h. The weight freed by the XL engine is used to add a Beagle Active Probe, Guardian ECM Suite, and C3 slave unit. It has thirteen and a half tons of armor to protect an Endo-Composite skeleton. It is also equipped with a Targeting Computer, and a Medium Shield is carried on the right arm. Offensively, it mounts a PPC, two large lasers, and three medium lasers. All equipment is of Inner Sphere quality.
+
+history:The Black Knight first debuted in the Reunification War when they were fielded by the 3rd Heavy Assault Regiment in combat with the Taurian Concordat; following its success it was soon adopted by I Corps and the rest of the SLDF. When the Star League collapsed, Kong Interstellar continued producing Black Knights until their Connaught orbital factory was destroyed in 2802. In 2809, Kong was able to restart their production line, but was no longer capable of producing many of the more advanced components found in the Black Knight. As a result, Kong was forced to design a downgraded version, the BL-7-KNT. Finally the Black Knight production line was permanently destroyed in a raid by the Capellan Confederation in 2820, reducing the company to producing low-grade spare parts and performing maintenance. During the Succession Wars many Black Knights fell into the hands of the Great Houses, although as the years progressed they were increasingly forced to repair them with inferior components and their numbers slowly decreased. Some were modified with a number of nonstandard components such as jump jets but few if any survived into the thirty-first century. ComStar's stockpiles of Star League 'Mechs included the Black Knight, which they found to be an excellent command unit for Level II and Level III units when the Com Guards were formed, but the very few Black Knights gifted to the Draconis Combine during Operation ROSEBUD was apparently the result of a clerical error. For their part the Clans maintained the Black Knight, although by the time of the Clan Invasion it was reserved for solahma units. The Black Knight was one of several Clanbusters put together by ComStar leading up to the Battle of Tukayyid, and in 3063 Robinson Standard BattleWorks secured a license from Kong Interstellar to build a new variant, the BL-12-KNT. Two years later KIC finished rebuilding their plant and began producing Black Knights of their own.
+
+manufacturer:Kong Interstellar Corporation,Robinson Standard BattleWorks
+
+primaryfactory:Connaught,Robinson
+
+systemmanufacturer:CHASSIS:Technicron Revised NT Endo-Composite
+systemmanufacturer:ENGINE:Vlar 300 XL
+systemmanufacturer:ARMOR:Valiant Lamellor
+systemmanufacturer:COMMUNICATIONS:TransComm Alpha with ECM
+systemmanufacturer:TARGETING:TransComm Beta
+
