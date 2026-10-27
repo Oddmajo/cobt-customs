@@ -1,12 +1,10 @@
-generator:MegaMek Suite 0.51.00 on 2026-07-26
+generator:MegaMek Suite 0.51.00 on 2026-10-25
 chassis:Archer
-model:ARC-B4t3
-mul id:74
+model:ARC-B4t5
 
-Config:Biped OmniMek
+Config:Biped
 techbase:Mixed (IS Chassis)
-era:3008
-source:TRO: 3039
+era:3017
 rules level:5
 role:Skirmisher
 
@@ -18,11 +16,13 @@ quirk:ubiquitous_is
 
 mass:70
 engine:350 XL (Clan) Engine
-structure:IS Standard
-myomer:Standard
+structure:Clan Endo Steel
+myomer:Triple-Strength
+cockpit:Command Console
+gyro:Standard Gyro
 
 heat sinks:13 IS Double
-base chassis heat sinks:12
+nocrit:CLCASE:RT
 walk mp:5
 jump mp:0
 
@@ -39,26 +39,28 @@ RTL armor:6
 RTR armor:6
 RTC armor:10
 
-Weapons:10
-Medium Laser, Left Arm
-Medium Laser, Right Arm
-LRM 15, Left Torso
+Weapons:12
+ER Medium Laser, Left Arm
+ER Large Laser, Right Arm
+ER Medium Laser, Left Torso
 SRM 4, Right Torso
 SRM 4, Right Torso
 SRM 4, Right Torso
 SRM 4, Right Torso
 SRM 4, Right Torso
-Medium Laser, Center Torso
-Medium Laser, Center Torso
+ER Micro Laser, Right Torso
+ER Micro Laser, Right Torso
+ER Medium Laser, Center Torso
+ER Medium Laser, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Medium Laser (OMNIPOD)
--Empty-
--Empty-
+CLERMediumLaser
+Triple Strength Myomer
+Triple Strength Myomer
 -Empty-
 -Empty-
 -Empty-
@@ -70,25 +72,25 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Medium Laser (OMNIPOD)
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+CLERLargeLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Triple Strength Myomer
+Triple Strength Myomer
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink (OMNIPOD)
-ISDoubleHeatSink (OMNIPOD)
-ISDoubleHeatSink (OMNIPOD)
-LRM 15 (OMNIPOD)
-LRM 15 (OMNIPOD)
-LRM 15 (OMNIPOD)
-IS Ammo LRM-15 (OMNIPOD)
+CLERMediumLaser
+Communications Equipment:SIZE:2.0
+Communications Equipment:SIZE:2.0
+Supercharger
+NovaCEWS
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -96,16 +98,16 @@ IS Ammo LRM-15 (OMNIPOD)
 Right Torso:
 Fusion Engine
 Fusion Engine
-SRM 4 (OMNIPOD)
-SRM 4 (OMNIPOD)
-SRM 4 (OMNIPOD)
-SRM 4 (OMNIPOD)
-SRM 4 (OMNIPOD)
-IS Ammo SRM-4 (OMNIPOD)
-IS Ammo SRM-4 (OMNIPOD)
-IS Ammo SRM-4 (OMNIPOD)
--Empty-
--Empty-
+CLSRM4
+CLSRM4
+CLSRM4
+CLSRM4
+CLSRM4
+CLERMicroLaser
+CLERMicroLaser
+Clan Ammo SRM-4
+Clan Ammo SRM-4
+Clan Ammo SRM-4
 
 Center Torso:
 Fusion Engine
@@ -118,14 +120,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Medium Laser (OMNIPOD)
-Medium Laser (OMNIPOD)
+CLERMediumLaser
+CLERMediumLaser
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+Cockpit
 Sensors
 Life Support
 -Empty-
@@ -140,8 +142,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Clan Endo Steel
+Triple Strength Myomer
 -Empty-
 -Empty-
 -Empty-
@@ -154,8 +156,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+Clan Endo Steel
+Triple Strength Myomer
 -Empty-
 -Empty-
 -Empty-

@@ -1,4 +1,4 @@
-#Saved from version 0.51.00 on 2026-10-02
+#Saved from version 0.51.00 on 2026-10-25
 <UnitType>
 VTOL
 </UnitType>
@@ -12,7 +12,7 @@ K-B4t2
 </Model>
 
 <year>
-3009
+3008
 </year>
 
 <originalBuildYear>
@@ -29,6 +29,8 @@ Scout
 
 <quirks>
 vtol_rotor_dual
+low_profile
+battle_computer
 </quirks>
 
 <motion_type>
