@@ -1,11 +1,11 @@
-generator:MegaMek Suite 0.51.00 on 2026-10-16
+generator:MegaMek Suite 0.51.00 on 2026-11-18
 chassis:Charger
-model:CGR-2A1g MOD 3140
+model:CGR-2A1g MOD 3141
 
 Config:Biped
-techbase:Inner Sphere
+techbase:Mixed (IS Chassis)
 era:3132
-rules level:5
+rules level:4
 role:Scout
 
 quirk:bad_rep_is
@@ -13,9 +13,9 @@ quirk:easy_maintain
 quirk:low_profile
 
 mass:80
-engine:400 Fusion Engine
+engine:400 Fusion Engine(IS)
 structure:IS Standard
-myomer:Standard
+myomer:Prototype Triple-Strength
 
 heat sinks:10 Single
 walk mp:5
@@ -34,16 +34,20 @@ RTL armor:5
 RTR armor:5
 RTC armor:6
 
-Weapons:2
-Small Re-engineered Laser, Left Arm
-Small VSP Laser, Right Arm
+Weapons:6
+Small Laser, Left Torso
+Small Laser, Left Torso
+Small Laser, Right Torso
+Small Laser, Right Torso
+Flamer, Center Torso
+Small Laser, Head
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-Small Re-engineered Laser
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -57,7 +61,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISSmallVSPLaser
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -67,6 +71,8 @@ ISSmallVSPLaser
 -Empty-
 
 Left Torso:
+Small Laser
+Small Laser
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
@@ -74,13 +80,13 @@ IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
+Prototype TSM
+Prototype TSM
 -Empty-
 
 Right Torso:
+Small Laser
+Small Laser
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
@@ -88,10 +94,8 @@ IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
--Empty-
--Empty-
--Empty-
--Empty-
+Prototype TSM
+Prototype TSM
 -Empty-
 
 Center Torso:
@@ -105,14 +109,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
--Empty-
+Flamer
+Prototype TSM
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+Small Laser
 Sensors
 Life Support
 -Empty-
@@ -127,7 +131,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
+Prototype TSM
 -Empty-
 -Empty-
 -Empty-
